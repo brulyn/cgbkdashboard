@@ -325,6 +325,10 @@ a.article:hover {
     font-size: 12px;
 }
 
+.logo {
+    width: 120px;
+}
+
 
 /* ---------------------------------------------------
     MEDIAQUERIES

@@ -12,10 +12,12 @@ class Header extends PureComponent {
                     <button type="button"
                         id="sidebarCollapse"
                         className="btn btn-default" >
-                        <i className="fas fa-align-left" > </i>
+
+                        <img className="logo" src="icon.png" alt="" />
                         <span >
                         </span>
                     </button >
+
                     <button className="btn btn-dark d-inline-block d-lg-none ml-auto"
                         type="button"
                         data-toggle="collapse"
